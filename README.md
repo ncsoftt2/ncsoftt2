@@ -5,6 +5,7 @@
 <img align="left" alt="redux" width="30" src="./src/icons/redux.svg"/>
 <img align="left" alt="js" width="30" src="./src/icons/javascript.svg"/>
 <img align="left" alt="ts" width="30" src="./src/icons/typescript.svg"/>
+<br/>
 <img align="left" alt="jest" width="30" src="./src/icons/jest.svg"/>
 <img align="left" alt="html" width="30" src="./src/icons/html5.svg"/>
 <img align="left" alt="css" width="30" src="./src/icons/css3.svg"/>
