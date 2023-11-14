@@ -1,7 +1,8 @@
 ## Frontend-developer
 
 ## Stack:
-<img style="width:30px" src="icons/react.svg"/>
+
+<img alt="react" width="30" src="icons/react.svg"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncsoftt2&layout=compact)](https://github.com/ncsoftt2)
