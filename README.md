@@ -1,6 +1,5 @@
 ## Frontend-developer
 
-## Stack:
 
 <img align="left" alt="react" width="30" src="./src/icons/react.svg"/>
 <img align="left" alt="redux" width="30" src="./src/icons/redux.svg"/>
