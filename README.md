@@ -1,15 +1,22 @@
 
-## Frontend-developer
 
-> <img align="left" alt="react" width="25" src="./src/icons/react.svg"/>
-> <img align="left" alt="redux" width="25" src="./src/icons/redux.svg"/>
-> <img align="left" alt="js" width="25" src="./src/icons/javascript.svg"/>
-> <img align="left" alt="ts" width="25" src="./src/icons/typescript.svg"/>
-> <img align="left" alt="jest" width="25" src="./src/icons/jest.svg"/>
-> <img align="left" alt="html" width="25" src="./src/icons/html5.svg"/>
-> <img align="left" alt="css" width="25" src="./src/icons/css3.svg"/>
-> <img alt="mui" width="25" src="./src/icons/mui.svg"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=4000&pause=80&color=F7002C&multiline=true&random=false&width=500&height=70&lines=Ruslan+Zakirov;Frontend-developer)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncsoftt2&layout=compact)](https://github.com/ncsoftt2)
 
-[![codewars](https://www.codewars.com/users/nonamesecond/badges/large)](https://www.codewars.com/users/nonamesecond)
+
+## 🔧 Technologies
+
+
+---
+![skills](https://skillicons.dev/icons?i=react,redux,js,ts,jest,html,css,mui)
+
+
+---
+[![codewars](https://www.codewars.com/users/nonamesecond/badges/small)](https://www.codewars.com/users/nonamesecond)
+
+
+
+
+
+
+
