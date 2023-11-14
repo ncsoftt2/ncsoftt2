@@ -2,13 +2,13 @@
 
 ## Stack:
 
-<img alt="react" width="30" src="./src/icons/react.svg"/>
-<img alt="redux" width="30" src="./src/icons/redux.svg"/>
-<img alt="js" width="30" src="./src/icons/javascript.svg"/>
-<img alt="ts" width="30" src="./src/icons/typescript.svg"/>
-<img alt="jest" width="30" src="./src/icons/jest.svg"/>
-<img alt="html" width="30" src="./src/icons/html5.svg"/>
-<img alt="css" width="30" src="./src/icons/css3.svg"/>
+<img align="left" alt="react" width="30" src="./src/icons/react.svg"/>
+<img align="left" alt="redux" width="30" src="./src/icons/redux.svg"/>
+<img align="left" alt="js" width="30" src="./src/icons/javascript.svg"/>
+<img align="left" alt="ts" width="30" src="./src/icons/typescript.svg"/>
+<img align="left" alt="jest" width="30" src="./src/icons/jest.svg"/>
+<img align="left" alt="html" width="30" src="./src/icons/html5.svg"/>
+<img align="left" alt="css" width="30" src="./src/icons/css3.svg"/>
 <img alt="mui" width="30" src="./src/icons/mui.svg"/>
 
 
