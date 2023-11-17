@@ -12,7 +12,6 @@
 
 
 ---
-[![codewars](https://www.codewars.com/users/nonamesecond/badges/small)](https://www.codewars.com/users/nonamesecond)
 
 
 
